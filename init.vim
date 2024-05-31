@@ -18,6 +18,7 @@ Plug 'vim-airline/vim-airline'
 Plug 'morhetz/gruvbox'
 Plug 'ryanoasis/vim-devicons'
 Plug 'preservim/tagbar'
+Plug 'xiyaowong/transparent.nvim'
 
 call plug#end()
 
