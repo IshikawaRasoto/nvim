@@ -1,3 +1,4 @@
 require("rashira-nvim.remap")
 require("rashira-nvim.packer")
-print("Hello World!")
+require("rashira-nvim.set")
+
