@@ -15,8 +15,6 @@ return require('packer').startup(function(use)
 	
 	use{ "rebelot/kanagawa.nvim" }
 
-	use ( 'nvim-treesitter/nvim-treesitter', {run = ':TSUpdate'} )
-
 	use ( 'tpope/vim-fugitive' )
 
     use {
