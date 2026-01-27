@@ -12,6 +12,7 @@ vim.opt.smartindent = true
 
 vim.opt.wrap = true
 vim.opt.breakindent = true
+vim.opt.twxtwidth = 80
 
 vim.opt.swapfile = false
 vim.opt.backup = false
