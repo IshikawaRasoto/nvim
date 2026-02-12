@@ -17,6 +17,8 @@ return require('packer').startup(function(use)
 
 	use ( 'tpope/vim-fugitive' )
 
+	use ( 'preservim/nerdtree' )
+		
     use {
         'lewis6991/gitsigns.nvim',
         config = function()
